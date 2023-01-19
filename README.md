@@ -1,5 +1,5 @@
 # First GithubPage 
 ***
 ```
-## Author: Shaheim Thomas
+Author: Shaheim Thomas
 ```
