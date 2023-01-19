@@ -1,4 +1,4 @@
-# First GithubPage 8-)
+# First GithubPage 
 ***
 ```
 ## Author: Shaheim Thomas
